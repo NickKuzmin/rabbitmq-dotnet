@@ -1,1 +1,1 @@
-# rabbitmq-dotnet
+https://github.com/DeveloperStories/RabbitMQ
